@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.exe.config
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.exe
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.pdb
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.exe
+C:\Users\Admin\Desktop\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.pdb
+G:\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.exe.config
+G:\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.exe
+G:\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.pdb
+D:\Gestural3DS\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.exe.config
+D:\Gestural3DS\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.exe
+D:\Gestural3DS\GestureRecognition\GestureRecognition\obj\Debug\GestureRecognition.pdb
