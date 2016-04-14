@@ -46,7 +46,7 @@
 
             if (bodyframereader == null)
             {
-                Console.WriteLine("...Faile to open the Kinect sensor!");
+                Console.WriteLine("...Failed to open the Kinect sensor!");
                 return;
             }
             Console.WriteLine("...Open the Kinect sensor...");
@@ -86,6 +86,7 @@
                         // Get the left and rigth hand types in the Depth Camera Space
                         Gesture.handLeftType = body.HandLeftState;
                         Gesture.handRightType = body.HandRightState;
+
                     }
                 }
             }
